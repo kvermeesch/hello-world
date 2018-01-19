@@ -3,3 +3,4 @@ This is the 2nd line.
 This is the 3rd line.
 This line was added at 11:40 AM while branch1 is being edited.
 This line was added at 11:52 AM on branch1 after the first timestamped line in master branch.
+This line was added at 12:22 PM on branch2 after branch1 was merged with the master branch.
